@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 echo "# shellBasics" >> README.md
 git init
